@@ -1,3 +1,5 @@
+package ATACJAVA.CodMagnetic.ArrayListMagnet;
+
 import java.util.*;
 
 public class ArrayListMagnet {
